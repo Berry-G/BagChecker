@@ -12,4 +12,4 @@
  5. 이름, 요일, 내용물 유무를 설정한다. 
  
 # 시연
-<img src="https://user-images.githubusercontent.com/69233747/89395889-dc306e00-d748-11ea-80e7-32391c344d6a.jpg" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/69233747/89395889-dc306e00-d748-11ea-80e7-32391c344d6a.jpg" width="200" height="400">
