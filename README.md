@@ -30,4 +30,4 @@
 
 ## 시연
 <img src="https://user-images.githubusercontent.com/69233747/89395889-dc306e00-d748-11ea-80e7-32391c344d6a.jpg" width="200" height="400">
-![image](https://user-images.githubusercontent.com/69233747/230624871-ef84764c-9d5f-4f6d-b169-08faec6922f2.png)
+<img src="https://user-images.githubusercontent.com/69233747/230624871-ef84764c-9d5f-4f6d-b169-08faec6922f2.png" width="200" height="400">
